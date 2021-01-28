@@ -3,4 +3,4 @@
 ## Assistant Professor
 ## Guru Nanak Dev Engineering, Ludhiana
 
-| [Home](Home.md) | [Publications](Publications.md) | [GNDEC](https://www.gndec.ac.in/) |
+| [About](About.md) | [Publications](Publications.md) | [GNDEC](https://www.gndec.ac.in/) |
