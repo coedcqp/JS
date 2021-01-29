@@ -1,0 +1,7 @@
+- Indian Society for Technical Education (ISTE)
+- International Association of Engineers (IAENG)
+- International Association of Computer science and Information Technology (IACSIT)
+- International Society for Research and Development(ISRD)
+- Indian Science Congress(ISC)
+- Institution of Engineers India(IEI)
+- Institute of Research Engineers & Doctors(IRED)
