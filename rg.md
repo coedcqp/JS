@@ -20,3 +20,5 @@
 | 17.   | Vijay Kumar Goel     | Implementation of Quality Control Tools to Improve Reliability of Diesel Locomotives:  A Case Study                      | May-2019           |
 | 18.   | Shahid Hassan Bhat   | Performance of Aluminum based coatings with varying percentage of Titanium with respect to slurry erosion                | July-2019          |
 | 19.   | Suresh Kumar Kashyap | Implementation of Quality Management System (ISO 9001:2015) in the Investment Casting Industry - A Case Study            | Sept-2019          |
+
+
