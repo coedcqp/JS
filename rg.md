@@ -1,5 +1,5 @@
 ## Master’s Guided: 19
-| S.No. | Name of the Student  | Title                                                                                                                    | Year of Submission |
+| S.No. | Name of the Student  |Title   | Year of Submission |
 | ----- | -------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 | 1.    | Amanjot Singh        | Assessment of Statistical Process Control (SPC) Implementation  in Auto parts Industry: A Survey                         | June-2012          |
 | 2.    | Ishpreet Singh       | Application of Value Engineering On Chassis Component for HCV – A Case Study                                             | Dec-2012           |
@@ -19,4 +19,4 @@
 | 16.   | Charanpreet Singh    | Study of Reliability Centered Maintenance in a Manufacturing Industry: A Case Study                                      | June-2018          |
 | 17.   | Vijay Kumar Goel     | Implementation of Quality Control Tools to Improve Reliability of Diesel Locomotives:  A Case Study                      | May-2019           |
 | 18.   | Shahid Hassan Bhat   | Performance of Aluminum based coatings with varying percentage of Titanium with respect to slurry erosion                | July-2019          |
-| 19.   | Suresh Kumar Kashyap | Implementation of Quality Management System (ISO 9001:2015) in the Investment Casting Industry - A Case Study            | Sept-2019          | 
+| 19.   | Suresh Kumar Kashyap | Implementation of Quality Management System (ISO 9001:2015) in the Investment Casting Industry - A Case Study            | Sept-2019          |
