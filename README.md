@@ -1,4 +1,4 @@
-![x](Images/jj.jpg)
+![x](Images/Jagdeep.jpg)
 # Dr. Jagdeep Singh
 ## Assistant Professor
 ## Guru Nanak Dev Engineering, Ludhiana
