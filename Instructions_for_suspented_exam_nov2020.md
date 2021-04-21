@@ -11,7 +11,7 @@
 1. Students will have to show empty sheets and the calculator to an Invigilator at the beginning of the examination. In case of any doubt, Invigilator, can ask the candidate to turn / focus the camera anywhere and the candidate has to follow instructions.
 1. Not following instruction issue ny Examination Bracnh (in this notice and subsequent amedments or additions) and instructions of invigilator will lead to cancellation of the examintion.
 1. Students shall also be responsible to post (Registered /Speed post only) all original answer sheets within the 24 hours of the last examination of the concerned student, failing which results shall not be declared.
-1. Envelop (Containing all original answer sheets) must be of A4 size of any colour along-with cloth lining and student must write on top "Answer sheet for Nov-2020 Examination" and addressed to: Controller of Examination, Guru Nanak Dev Engineering College, Gill Park, Gill Road, Ludhiana.
+1. Envelop (Containing all original answer sheets) must be of A4 size of any colour along-with cloth lining and student must write on top "Answer sheet for Nov-2020 Examination" and addressed to: Controller of Examination, Guru Nanak Dev Engineering College, Gill Park, Gill Road, Ludhiana. 
 ```
 In sender's details, following is mandatory:
 Name of the Candidate
@@ -20,7 +20,7 @@ Branch
 Semester(s)
 Ppostal address of candidate and mobile number.
 ```
-1. In case of any delay related to the start of examination from the college side due to any reason (Internet / Server issue, etc.) due time will be given to the student.
+13. In case of any delay related to the start of examination from the college side due to any reason (Internet / Server issue, etc.) due time will be given to the student.
 1. Examination will be proctored remotely using the Internet. It is advised to dress up properly and make sure no other person is accompanying the candidate during the examination, and the candidate is not permitted to consult any other person by any means of communication. Also no information / identification mark should be there in the answer sheet.
 1. Any violation of the conduct rules observed during proctoring will be treated as an Unfair Means Case (UMC).
 1. Any student found attempting an answer sheet for any other person(s), using incriminating material or involved in any wrong activity reported by invigilator or evaluator shall be treated under UMC provisions. Students found sharing the question paper(s) on digital media or with any other person or any organisation / institution shall also be treated as UMC.
