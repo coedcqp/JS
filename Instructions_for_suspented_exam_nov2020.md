@@ -8,7 +8,7 @@
 6.	Use black pen only to attempt the paper.
 7.	Candidates will have to show empty sheets and the calculator to an Invigilator at the beginning of the exam. In case of any doubt, Invigilator, can ask the candidate to turn/focus the camera anywhere and the candidate has to follow the same. if the candidate doesn't follow instructions of invigilator, then his/her exam may be cancelled.
 8.	Students shall also be responsible to post (Regd. /Speed post only) all original answer sheets after the last examination(within 24 hours) of the concerned student, failing which results shall not be declared.
-9.	Envelop (Containing all original answer sheets) must be of A4 size of any colour along-with cloth lining and candidate must write on top “Answer sheet for Nov-2020 Examination” and addressed to: Controller of Examination, Guru Nanak Dev Engineering College, Gill Park, Gill Road, Ludhiana. 
+9.	Envelop (Containing all original answer sheets) must be of A4 size of any colour along-with cloth lining and candidate must write on top “Answer sheet for Nov-2020 Examination” and addressed to: Controller of Examination, Guru Nanak Dev Engineering College, Gill Park, Gill Road, Ludhiana.
 At sender details, following is mandatory: -
 Name of the Candidate, Roll No, Branch, semester(s), postal address of candidate & mobile number.
 10.	In case of any delay related to the start of examination from the college side due to any reason (Internet / Server issue, etc.) due time will be given to the student.
@@ -22,4 +22,5 @@ Name of the Candidate, Roll No, Branch, semester(s), postal address of candidate
 18.	Instructions for attempting the exam will be published shortly and keep visiting the website regularly.
 
 Controller of Examination
+
 Guru Nanak Dev Engineering College, Ludhiana
