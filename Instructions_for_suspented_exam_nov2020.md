@@ -18,7 +18,7 @@ Name of the Candidate, Roll No, Branch, semester(s), postal address of candidate
 14.	It is the sole responsibility of the student to provide correct and exact information asked in the help form.
 15.	The students should check the date sheet of examinations uploaded on the website https://academics.gndec.ac.in/datesheet/.
 16.	Keep an eye on the Timer displayed on the screen.
-17.	Mock test for the examination will be held on 23/04/2021 at 11:00am and it is compulsory for every student to attempt the mock test.
+17.	Mock test for the examination will be held on 23/04/2021 at 02:00 pm and it is compulsory for every student to attempt the mock test.
 18.	Instructions for attempting the exam will be published shortly and keep visiting the website regularly.
 
 Controller of Examination
